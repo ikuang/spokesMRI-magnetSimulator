@@ -7,6 +7,7 @@
  testMagnet.m
  ```
  
+ We have provided [STL](stl) files for a 191 mT magnet constructed using 64 bar magnets from [K&J Magnets](https://www.kjmagnetics.com/proddetail.asp?prod=B82X0)
  <img src="./figures/magnet_sim_field.png" alt="drawing" width="1000"/>
  
 
