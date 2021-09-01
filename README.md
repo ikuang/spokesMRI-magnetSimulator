@@ -7,6 +7,8 @@
  testMagnet.m
  ```
  
+ <img src="./figures/magnet_sim_field.png" alt="drawing" width="1000"/>
+ 
 
 ## References
 
