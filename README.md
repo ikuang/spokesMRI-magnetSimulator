@@ -13,7 +13,7 @@
  We use mechanical tilts from linear actuators to generate gradient fields within the magnet. The actuators and their control boards were purchased from [Actuonix](https://www.actuonix.com/L12-P-Micro-Linear-Actuator-with-Position-Feedback-p/l12-p.htm)
  <img src="./figures/tilted_magnet.gif" width="1000"/>
  
- We use an ultrasound pulser chip from [STMicroelectronics](https://www.st.com/en/switches-and-multiplexers/sthv800.html)
+ We use an 8-channel ultrasound h-bridge driver chip from [STMicroelectronics](https://www.st.com/en/switches-and-multiplexers/sthv800.html) to transmit/receive RF on a solenoid coil. A Teensy 4.0 microcontroller sends RF pulses to the driver. We have provided a sample dithered RF pulse (with 100kHz bandwidth) alongside Arduino code that controls the pulses and actuator movements. 
   <img src="./figures/signal_chain.png" alt="drawing" width="1000"/>
 
 
