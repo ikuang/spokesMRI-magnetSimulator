@@ -20,7 +20,9 @@
 ## References
 
 [1] Kuang, I., Arango, N., Stockmann, J., Adalsteinsson, E., White, J. <em>Equivalent-Charge-Based Optimization of Spokes-and-Hub Magnets for Hand-Held and Classroom MR Imaging</em>. Proc. Intl. Soc. Mag. Reson. Med., 2019. 
+
 [2] Kuang, I., Stockmann, J., Adalsteinsson, E., White, J. <em>Mechanical Tilt-Induced Gradient Fields for Low-Field Spokes-and-Hub MR Imagers</em>. Proc. Intl. Soc. Mag. Reson. Med., 2021. 
+
 [3] Kuang, I., Arango, N., Stockmann, J., Adalsteinsson, E., White, J. <em>Bloch-Optimized Dithered-Ultrasound-Pulse RF for Low-Field Inhomogeneous Permanent Magnet MR Imagers</em>. Proc. Intl. Soc. Mag. Reson. Med., 2020. 
 
  Plotting functions use perceptually uniform colormaps from https://colorcet.com/
