@@ -11,7 +11,7 @@
  <img src="./figures/magnet_sim_field.png" alt="drawing" width="1000"/>
  
 We use mechanical tilts from linear actuators to generate gradient fields within the magnet. The actuators were purchased from [Actuonix](https://www.actuonix.com/L12-P-Micro-Linear-Actuator-with-Position-Feedback-p/l12-p.htm)
- <img src="./figures/tilted_magnet.jif" alt="drawing" width="1000"/>
+ <img src="./figures/tilted_magnet.jif" width="1000"/>
 
 ## References
 
